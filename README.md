@@ -1,27 +1,44 @@
-- 👋 Hi, I’m @GabrielBrum
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+👋 Olá, eu sou o Gabriel Brum
 
- <div style="display: inline_block"><br>
-   <img align="center" alt="Gabriel-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Gabriel-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Gabriel-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>  
-<br>
+💻 Desenvolvedor iniciante focado em desenvolvimento web  
+🎓 Experiência prática em estágio de 11 meses em software house  
+🚀 Atuação em projeto corporativo desenvolvido em ASP.NET Core MVC  
+🎯 Buscando minha primeira oportunidade como Desenvolvedor Júnior ou Estágio
+
+---
+
+## 🛠️ Tecnologias
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- Knockout.js
+- AJAX
+- WebSocket
+
+### Backend
+- C#
+- ASP.NET Core MVC
+
+### Banco de Dados
+- SQL
+
+### Qualidade
+- QA (testes básicos e validações)
+
+---
+
+## 📊 GitHub Stats
 <div>
-  <a href="https://github.com/GabriellBrum">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabriellBrum&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellBrum&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width:100%;">
-</a>
-
+  <a href="https://github.com/GabrielBrum">
+    <img height="180em"
+         src="https://github-readme-stats.vercel.app/api?username=GabrielBrum&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBrum&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 
-<h2>_______________________________________________________________________________________________</h2>
-     
-<div>
-   <a href =https://api.whatsapp.com/send?l=pt_BR&phone=5521965659905></a><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
- 
- ![Snake animation](https://github.com/GabriellBrum/GabriellBrum/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+---
+
+![Snake animation](https://github.com/GabrielBrum/GabrielBrum/blob/output/github-contribution-grid-snake.svg)
